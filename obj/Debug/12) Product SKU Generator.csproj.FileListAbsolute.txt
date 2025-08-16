@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\12) Product SKU Generator\bin\Debug\12) Product SKU Generator.exe.config
+C:\Users\HP\source\repos\12) Product SKU Generator\bin\Debug\12) Product SKU Generator.exe
+C:\Users\HP\source\repos\12) Product SKU Generator\bin\Debug\12) Product SKU Generator.pdb
+C:\Users\HP\source\repos\12) Product SKU Generator\obj\Debug\12) Product SKU Generator.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\12) Product SKU Generator\obj\Debug\12) Product SKU Generator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\12) Product SKU Generator\obj\Debug\12) Product SKU Generator.exe
+C:\Users\HP\source\repos\12) Product SKU Generator\obj\Debug\12) Product SKU Generator.pdb
